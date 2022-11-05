@@ -1,0 +1,24 @@
+html {
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    word-break: break-all;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body{
+    background-color: azure ;
+    margin: auto;
+    color: grey;
+    max-width: 700px;
+}
+@media(max-width :767px){
+    .body{
+        max-width: 98%;
+        padding: 15px 0;;
+    }
+}
