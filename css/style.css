@@ -10,15 +10,29 @@ html {
     box-sizing: inherit;
 }
 
-.body{
-    background-color: azure ;
+.body {
+    background-color: #eee;
     margin: auto;
-    color: grey;
+    color: #292929;
     max-width: 700px;
 }
-@media(max-width :767px){
-    .body{
-        max-width: 98%;
-        padding: 15px 0;;
+
+@media (max-width: 767px) {
+    .body {
+        max-width: 90%;
     }
+}
+
+.header {
+    color: #3c3c3c;
+    padding: 15px 0;
+
+}
+
+.subHeader {
+    font-size: 20px;
+    color: #3c3c3c;
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+    margin: 0;
 }
