@@ -1,15 +1,17 @@
 # ToDo
-# To do list
 
 ## Preview
 ![Screen Shoot](readmeIMG.jpg)
 
 ## Description
 
-A simple task list for the forgetful. Created as part of a course at the YouCode programming school.
+Simple to-do list. This app helps you remember the most important things to do during the day.
 
 ## Technology
 - Java Script
 - HTML
 - CSS
 - BEM
+
+# DEMO
+https://przemekbiernat1998.github.io/ToDo/
